@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Hugo Lancery ~ LanceryH</h1>
-<h2 align="center">22 yo, French/American, in 💗 with 🚀🌌</h2>
+<h2 align="center">22 yo, French/American, in love with space and coding</h2>
 <h3 align="center">This is the place where I show and share some python, C++, JS.</h3>
 <h3 align="center">Connect with me: <a href="https://linkedin.com/in/hugo lancery" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="hugo lancery" height="30" width="40" /></h3>
 
