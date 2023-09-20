@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Hugo Lancery ~ LanceryH</h1>
-<h2 align="center">22 yo, French/American, in 💗 with 🚀🌌</h2>h2>
+<h2 align="center">22 yo, French/American, in 💗 with 🚀🌌</h2>
 <h3 align="center">This is the place where I show and share some python, C++, JS.</h3>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
