@@ -4,7 +4,7 @@
 
 <img src="https://github.com/LanceryH/constellation/assets/108919405/d07230f2-885a-4e1b-bec8-987babb21714" width="50%" height="50%" />
 <img src="https://github.com/LanceryH/n_body/assets/108919405/5de45124-188f-49df-9c35-6c8fb62fc40c" width="30%" height="30%" />
-<img src="https://github.com/LanceryH/LanceryH/assets/108919405/5ee0f2af-8f5c-4b62-9956-b07b9331ca9d" width="50%" height="50%" />
+<img src="https://github.com/LanceryH/LanceryH/assets/108919405/5ee0f2af-8f5c-4b62-9956-b07b9331ca9d" width="50%" height="50%" class="center"/>
 
 <h3 align="center">Connect with me: <a href="https://linkedin.com/in/hugo lancery" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="hugo lancery" height="30" width="40" /></h3>
 
