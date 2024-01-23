@@ -1,6 +1,5 @@
 <h1 align="center">Hi 👋, I'm Hugo Lancery ~ LanceryH</h1>
-<h2 align="center">22 yo, French/American, in love with space and coding</h2>
-<h3 align="center">This is the place where I show and share some python, C++, JS.</h3>
+<h2 align="center">22 yo, French/American aerospace engineer, in love with space and coding</h2>
 <p align="center">
 <img src="https://github.com/LanceryH/constellation/assets/108919405/d07230f2-885a-4e1b-bec8-987babb21714" width="50%" height="50%" />
 <img src="https://github.com/LanceryH/n_body/assets/108919405/5de45124-188f-49df-9c35-6c8fb62fc40c" width="30%" height="30%" />
