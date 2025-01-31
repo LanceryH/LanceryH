@@ -11,7 +11,7 @@ My name is Hugo Lancery, I am an aerospace engineer passionate about space mecha
 
 ### My interships
 
-- **[Prediction and Simulation of degazing materials in space](./Internships/CNES/CNES_rapport_2024.pdf)**
+- **[CNES - Prediction and Simulation of degazing materials in space](./Internships/CNES/CNES_rapport_2024.pdf)**
 
 <div align="center">
 <a href="./Internships/CNES/CNES_rapport_2024.pdf">
@@ -22,7 +22,7 @@ My name is Hugo Lancery, I am an aerospace engineer passionate about space mecha
 </a> 
 </div>
 
-- **[Prototyping of a photometric mission to explore the moon - Màni ESA](./Internships/CNRS/CNRS_rapport_2024.pdf)**
+- **[CNRS - Prototyping of a photometric mission to explore the moon - Màni ESA](./Internships/CNRS/CNRS_rapport_2024.pdf)**
 
 <div align="center">
 <a href="./Internships/CNRS/CNRS_rapport_2024.pdf">
